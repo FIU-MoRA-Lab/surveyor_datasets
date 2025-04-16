@@ -1,4 +1,4 @@
-# Iteration 1 Datasets
+# Iteration 2 Datasets
 
 This directory contains datasets collected during the first iteration of our data collection process. The datasets are categorized based on the sensors used during collection.
 
