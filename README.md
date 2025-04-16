@@ -7,6 +7,7 @@ This repository contains datasets collected by the ASV SeaRobotics Surveyor, org
 - `iteration_1/`: Datasets from the first collection phase. Read its documentation [here](iteration_1/README.md).
   - `state_camera/`: Datasets with synchronized state and camera data.
   - `state_lidar_camera/`: Datasets with synchronized state, LiDAR, and camera data.
+- `iteration_2/`: Datasets from the second collection phase. Read its documentation [here](iteration_2/README.md).
 
 
 
